@@ -8,11 +8,10 @@ You can use an existing .mp4 video or even single .png files to create your own 
 When you're done, you can apply it on your own computer, or you can share it with the community.
 
 ## Dependencies:
-- python-2
+- python3
 - python-gi
-- python-tkinter
-    + `apt-get install python-tk`
-    + `pip install tk`
+- python3-tkinter
+    + `apt-get install python3-tk`
 - ffmpeg
 
 

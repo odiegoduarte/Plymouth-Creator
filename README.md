@@ -9,7 +9,7 @@ When you're done, you can apply it on your own computer, or you can share it wit
 
 ## Dependencies:
 - python3
-- python-gi
+- python3-gi
 - python3-tkinter
     + `apt-get install python3-tk`
 - ffmpeg
